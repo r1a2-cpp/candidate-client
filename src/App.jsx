@@ -10,16 +10,26 @@ function App() {
         <thead>
           <tr>
             <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
-            <th>SL</th>
+            <th>NAME</th>
+            <th>PASSPORT</th>
+            <th>AGENT</th>
+            <th>RECIVED</th>
+            <th>MEDICAL</th>
+            <th>MOFA</th>
+            <th>PC</th>
+            <th>FINGER</th>
+            <th>VISA</th>
+            <th>MANPOWER</th>
+            <th>FLIGHT</th>
+            <th>STATUS</th>
+            <th>ACTION</th>
           </tr>
         </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+          </tr>
+        </tbody>
       </table>
     </div>
       
